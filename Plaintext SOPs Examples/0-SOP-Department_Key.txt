@@ -1,0 +1,7 @@
+AC - Academic Staff
+AL - All Staff
+CL - Clerical Staff
+HR - Human Resources
+MG - School Management
+PR - Professional Staff
+TI - Technology & Innovation

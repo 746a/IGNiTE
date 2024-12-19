@@ -1,0 +1,34 @@
+Standard Operating Procedure (SOP)
+
+Title: Updating Digital Signage
+
+Purpose: To provide a structured approach for updating and managing digital signage content, ensuring accurate and timely information is displayed to the audience.
+
+Scope: Applies to all team members responsible for updating and maintaining digital signage in the organisation.
+
+Responsibilities:
+- Content Manager: Ensures content is up-to-date, relevant, and aligned with organisational goals.
+- IT/Technical Support: Assists with technical issues and ensures the hardware is functioning properly.
+- Team Members: Assist in gathering and submitting content as needed.
+
+Steps:
+1. Review Content: Assess current signage content and determine if updates are required based on upcoming events, promotions, or announcements.
+
+2. Gather Updated Information: Collect the necessary details for new content (e.g., event times, promotional offers, organisational updates).
+
+3. Create and Design Content: Use appropriate design tools to create visually appealing content, ensuring it aligns with brand guidelines.
+
+4. Update Signage System: Upload and schedule the new content to the digital signage system, ensuring it displays in the correct sequence and at the right times.
+
+5. Verify Display: After the update, check the signage to ensure it is displaying correctly and troubleshoot any issues.
+
+6. Monitor Performance: Regularly check signage for any technical issues or content discrepancies.
+
+7. Document Updates: Record the updates made, including content details, time of update, and any issues faced.
+
+Notes:
+- Ensure that content is checked for accuracy before uploading to avoid misinformation.
+- Use project management tools to track content updates and schedules.
+
+Date created: 2024-12-19
+Date last updated: v1-2024-12-19

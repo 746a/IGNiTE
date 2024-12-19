@@ -1,0 +1,31 @@
+Standard Operating Procedure (SOP)  
+
+Title: Management Task Execution ("Doing Stuff")  
+
+Purpose: To provide a structured approach for managers to plan, execute, and track tasks effectively, ensuring alignment with organisational goals.  
+
+Scope: Applies to all managers responsible for overseeing projects, team performance, and operational objectives.  
+
+Responsibilities:  
+- Manager: Plans and executes tasks while ensuring team alignment and timely completion.  
+- Team Members: Support task execution as assigned.  
+
+Steps:  
+1. Define the task's objective and desired outcome, ensuring alignment with organisational priorities.  
+
+2. Break the task into actionable steps and assign responsibilities to team members.  
+
+3. Set deadlines and communicate expectations clearly to all involved.  
+
+4. Monitor progress through regular check-ins or updates.  
+
+5. Address roadblocks promptly and adjust plans as needed.  
+
+6. Document outcomes and lessons learned for future reference.  
+
+Notes:  
+- Use available tools (e.g., project management software) to track progress.  
+- Encourage team input to improve task execution and identify potential challenges early.  
+
+Date created: 2024-12-19  
+Date last updated: v1-2024-12-19  
