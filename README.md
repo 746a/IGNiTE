@@ -1,7 +1,7 @@
 # IGNiTE
-![IGNiTE-Logo](images/IGNiTE-Logo.jpg)
-Innovation for Growth in Northern Ireland Tertiary Education
+![IGNiTE-Logo](Images/IGNiTE-Logo.png)
 
+### Innovation for Growth in Northern Ireland Tertiary Education
 
 The toolkit is a set of tools for discretionary use, not a rigid set of rules or hierarchy. Innovation occurs when those familiar with a process identify opportunities for improvement and are supported to act. Failure is a natural part of trying something new. As long as no harm occurs, staff should be encouraged to tolerate, seek out, and become comfortable with failure in pursuing innovation.
 
